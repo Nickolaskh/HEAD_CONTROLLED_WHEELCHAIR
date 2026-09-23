@@ -130,11 +130,3 @@ PID gains were tuned empirically on hardware to account for non-ideal effects no
 - Project presentation post
 
 ---
-
-## Future Improvements
-
-- Dedicated microcontroller for real-time motor control
-- Advanced sensor fusion for improved head tracking
-- Adaptive PID tuning
-- Lightweight deep-learning-based obstacle detection
-- Semi-autonomous navigation mode
